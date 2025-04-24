@@ -28,6 +28,7 @@ click(); //x=findX(), y=findY()
 
 ## Get global key status
 isKeyDown(keyName:string, [...]):boolean
+[View KeyName](https://github.com/ostrosco/device_query/blob/master/src/keymap.rs)
 
 ## Log Printing
 console.log(x:any,[...])
