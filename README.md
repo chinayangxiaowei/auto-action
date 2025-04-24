@@ -1,6 +1,6 @@
 # auto-action
-Writing automated windows using javascript
-
+Automated window control in JavaScript, using a template image search for positioning.
+Tested only on macOS and under the RustRover editor, running under RustRover's built-in console.
 
 # API Interface
 
